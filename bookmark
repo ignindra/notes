@@ -49,6 +49,15 @@ http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes
 https://stackoverflow.com/questions/35935060/how-can-i-generate-an-apk-that-can-run-without-server-with-react-native
 
 
+Redux
+https://github.com/alinz/example-react-native-redux
+http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+https://github.com/erikras/ducks-modular-redux
+https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be
+https://medium.com/@scbarrus/the-ducks-file-structure-for-redux-d63c41b7035c
+https://github.com/goopscoop/ga-react-tutorial
+
+
 GraphQL
 https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf
 https://stackoverflow.com/questions/35118458/neo4j-vs-arangodb-when-modeling-a-social-network
@@ -87,5 +96,3 @@ https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-b
 https://tonyfreed.blog/what-is-virtual-dom-c0ec6d6a925c
 https://neo4j.com/developer/graph-db-vs-nosql/
 https://www.quora.com/What-are-5-mistakes-to-avoid-when-using-Redis
-http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
-https://github.com/alinz/example-react-native-redux
