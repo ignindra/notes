@@ -48,8 +48,10 @@ https://speakerdeck.com/hswolff/react-native-and-d3js
 http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes
 https://stackoverflow.com/questions/35935060/how-can-i-generate-an-apk-that-can-run-without-server-with-react-native
 
+
 Javascript
 https://www.airpair.com/node.js/posts/nodejs-framework-comparison-express-koa-hapi
+
 
 Redux
 https://github.com/alinz/example-react-native-redux
@@ -98,3 +100,4 @@ https://hackernoon.com/polyfills-everything-you-ever-wanted-to-know-or-maybe-a-b
 https://tonyfreed.blog/what-is-virtual-dom-c0ec6d6a925c
 https://neo4j.com/developer/graph-db-vs-nosql/
 https://www.quora.com/What-are-5-mistakes-to-avoid-when-using-Redis
+https://stackoverflow.com/questions/12616153/what-is-express-js
