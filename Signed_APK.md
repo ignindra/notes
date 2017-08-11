@@ -9,7 +9,10 @@ In case of `ENOENT: no such file or directory, open 'android/<your-package-name>
 ```
 mkdir android/<your-package-name>/src/main/assets
 ```
+
+
 2) Open android folder using Android Studio and generate signed apk from the `Build` menu
+
 3) Install generated APK using:
 ```
 - emulator ( -r switch will replace existing application) : adb -e install -r <path_to_signed_apk>
