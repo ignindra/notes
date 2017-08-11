@@ -1,7 +1,7 @@
 Alternative way to generate signed APK on Android project built with React Native
 
 
-1) Bundle react-native assets into android project file
+**1) Bundle react-native assets into android project file**
 ```
 react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/<your-package-name>/src/main/assets/index.android.bundle --assets-dest android/<your-package-name>/src/main/res/
 ```
@@ -11,9 +11,10 @@ mkdir android/<your-package-name>/src/main/assets
 ```
 
 
-2) Open android folder using Android Studio and generate signed apk from the `Build` menu
 
-3) Install generated APK using:
+**2) Open android folder using Android Studio and generate signed apk from the `Build` menu**
+
+**3) Install generated APK using:**
 ```
 - emulator ( -r switch will replace existing application) : adb -e install -r <path_to_signed_apk>
 - USB device ( -r switch will replace existing application) : adb -d install -r <path_to_signed_apk>
