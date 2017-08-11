@@ -11,6 +11,8 @@ mkdir android/<your-package-name>/src/main/assets
 ```
 2) Open android folder using Android Studio and generate signed apk from the `Build` menu
 3) Install generated APK using:
->> emulator ( -r switch will replace existing application) : `adb -e install -r <path_to_signed_apk>`
->> USB device ( -r switch will replace existing application) : `adb -d install -r <path_to_signed_apk>`
->> list all connected devices : `adb devices -l`
+```
+- emulator ( -r switch will replace existing application) : adb -e install -r <path_to_signed_apk>
+- USB device ( -r switch will replace existing application) : adb -d install -r <path_to_signed_apk>
+- list all connected devices : adb devices -l
+```
