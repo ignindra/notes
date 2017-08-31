@@ -1,3 +1,5 @@
+http://nvie.com/posts/a-successful-git-branching-model/
+
 create a new repository on the command line
 
 echo "# testingnewrepostep" >> README.md
